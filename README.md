@@ -2,11 +2,14 @@
 The official implementation of ORMNet: Object-centric Relationship Modeling for Egocentric Hand-object Segmentation[https://arxiv.org/abs/2407.05576]
 
 # Experimental results
-## Video Demostrations
+## Video Demonstrations
 
-![dynamic_video_results](https://github.com/user-attachments/assets/d32a45ed-60d2-4ce1-820c-073ead30646c)
-![dynamic_video_results2](https://github.com/user-attachments/assets/46d2f097-401b-4f8a-be81-9594b330fd37)
-![dynamic_video_results3](https://github.com/user-attachments/assets/e2f1d4fd-199c-4b5a-b4fe-405b8669c709)
+![dynamic_video_results](https://github.com/user-attachments/assets/7d7a19b5-bf50-4372-850f-f76485c4d3ee)
+
+![dynamic_video_results](https://github.com/user-attachments/assets/ede8a00f-df17-4957-8d9b-379958443a7e)
+
+![dynamic_video_results3](https://github.com/user-attachments/assets/fe4315ef-fa0e-4cd0-b60d-f318e7f21ea2)
+
 
 
 
