@@ -4,13 +4,11 @@ The official implementation of ORMNet: Object-centric Relationship Modeling for 
 # Experimental results
 ## Video Demonstrations
 
-![dynamic_video_results](https://github.com/user-attachments/assets/7d7a19b5-bf50-4372-850f-f76485c4d3ee)
+![dynamic_video_results](https://github.com/user-attachments/assets/532e9cae-72ae-43b3-91a1-547463d0da54)
 
-![dynamic_video_results](https://github.com/user-attachments/assets/ede8a00f-df17-4957-8d9b-379958443a7e)
+![dynamic_video_results2](https://github.com/user-attachments/assets/f5710073-2ecb-409d-8dd7-ed4c5acbf789)
 
-![dynamic_video_results3](https://github.com/user-attachments/assets/fe4315ef-fa0e-4cd0-b60d-f318e7f21ea2)
-
-
+![dynamic_video_results3](https://github.com/user-attachments/assets/56eb605c-0e41-49c1-ab06-4f8550b8888f)
 
 
 ## Quantitative Results
