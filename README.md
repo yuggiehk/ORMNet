@@ -16,6 +16,7 @@ Yuejiao Su, Yi Wang, and Lap-Pui Chau
 
 ## Qualitative Results
 Comparison results on the EgoHOS in-domain test set.
+
 ![dynamic_video_results](https://github.com/user-attachments/assets/c803e48d-b574-4204-84db-0cf280553cbd)
 
 
