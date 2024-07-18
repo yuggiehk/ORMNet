@@ -3,7 +3,7 @@
 
 Yuejiao Su, Yi Wang, and Lap-Pui Chau
 
-# Experimental results
+
 ## Video Demonstrations
 
 ![dynamic_video_results](https://github.com/user-attachments/assets/b134b5b1-5ba7-452d-8923-fb7d8777fa4c#pic_center)
