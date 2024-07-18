@@ -1,5 +1,6 @@
 # ORMNet
-The official implementation of [ORMNet: Object-centric Relationship Modeling for Egocentric Hand-object Segmentation](https://arxiv.org/abs/2407.05576)
+[ORMNet: Object-centric Relationship Modeling for Egocentric Hand-object Segmentation](https://arxiv.org/abs/2407.05576)
+Yuejiao Su, Yi Wang, and Lap-Pui Chau
 
 # Experimental results
 ## Video Demonstrations
@@ -24,6 +25,9 @@ Comparison results on the EgoHOS out-of-domain test set measured by IoU/Acc and 
 
 Comparison results on the mini-HOI4D test set measured by IoU/Acc and mIoU/mAcc. 
 ![图片_20240718105954](https://github.com/user-attachments/assets/d831c34b-568c-435e-9f1b-7264f13b35a2)
+
+## Acknowledgements
+The research work was conducted in the JC STEM Lab of Machine Learning and Computer Vision funded by The Hong Kong Jockey Club Charities Trust.
 
 
 
