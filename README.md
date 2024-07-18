@@ -14,6 +14,15 @@ Yuejiao Su, Yi Wang, and Lap-Pui Chau
 
 ![4](https://github.com/user-attachments/assets/e36dda39-3505-442b-9f42-d3c349250d52)
 
+## Qualitative Results
+Comparison results on the EgoHOS in-domain test set.
+![dynamic_video_results](https://github.com/user-attachments/assets/b911b72d-b57b-4168-a683-99ba11b72d91)
+![2](https://github.com/user-attachments/assets/537936d2-9c33-4d4a-8313-065f9c86077a)
+
+Comparison results on the EgoHOS out-of-domain test set.
+
+
+
 
 ## Quantitative Results
 Comparison results on the EgoHOS in-domain test set measured by IoU/Acc and mIoU/mAcc. 
