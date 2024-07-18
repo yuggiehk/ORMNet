@@ -45,6 +45,8 @@ Comparison results on the mini-HOI4D test set measured by IoU/Acc and mIoU/mAcc.
 ## Acknowledgements
 The research work was conducted in the JC STEM Lab of Machine Learning and Computer Vision funded by The Hong Kong Jockey Club Charities Trust.
 
+The code of the ORMNet is built upon the [MMsegmentation](https://github.com/open-mmlab/mmsegmentation) codebase, thanks for their work.
+
 
 
 
