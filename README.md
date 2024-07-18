@@ -24,6 +24,9 @@ Comparison results on the EgoHOS in-domain test set.
 
 Comparison results on the EgoHOS out-of-domain test set.
 
+![2](https://github.com/user-attachments/assets/03064bee-85fb-48c6-8d8b-f89018908166)
+
+
 
 
 
