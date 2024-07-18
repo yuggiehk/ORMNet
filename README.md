@@ -4,13 +4,8 @@ The official implementation of ORMNet: Object-centric Relationship Modeling for 
 # Experimental results
 ## Video Demonstrations
 
-![dynamic_video_results](https://github.com/user-attachments/assets/893545aa-d41f-4a58-bc5b-12fc86b392c0)
+![dynamic_video_results](https://github.com/user-attachments/assets/b134b5b1-5ba7-452d-8923-fb7d8777fa4c)
 
-![2](https://github.com/user-attachments/assets/ae009846-c70b-4b33-8dd3-bad06f8f95d5)
-
-![3](https://github.com/user-attachments/assets/b2a1553a-0027-492a-8563-da3cfff57df8)
-
-![4](https://github.com/user-attachments/assets/fcd549ea-25cc-40e5-b8c3-5532b765a01c)
 
 ## Quantitative Results
 Comparison results on the EgoHOS in-domain test set measured by IoU/Acc and mIoU/mAcc. 
